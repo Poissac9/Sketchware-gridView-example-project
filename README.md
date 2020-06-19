@@ -5,5 +5,5 @@ SH RECOVERY
 Download Link (5MB )
 https://bit.ly/shrecovery1_4
 
-And also download the project file, is names com.gridview.example.sh-zip
+And also download the project file, it's named com.gridview.example.sh-zip
 
